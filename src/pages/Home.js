@@ -73,13 +73,6 @@ const Home = () => {
         }
       ];
       
-    // const handleLogout = () => {
-    //     localStorage.clear();
-    //     window.location.reload();
-    //     toast.success("User Logged Out SucessFully")
-    // }
-
-
     return (
         <div>
             <div className="App ">
@@ -373,7 +366,7 @@ const Home = () => {
                             </div>
                             <div className='why-choose-us-child w-[30%]  py-6 h-full shadow-md shadow-yellow-300 rounded-xl flex justify-center items-center flex-col'>
                                 <div className=" flex justify-center items-center py-4 ">
-                                    <img src="images/cooking.png" alt="order-placing" className='w-16 h-16 why-choose-us-image ' />
+                                    <img src="images/cooking.png" alt="order-placing" className='w-16 h-16 why-choose-us-image' />
                                 </div>
                                 <div className='text-xs md:text-sm lg:text-sm xl:text-sm font-bold text-slate-900 mb-2'>
                                     Personalized Touch

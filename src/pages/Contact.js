@@ -49,10 +49,10 @@ const Contact = () => {
                                 <span className='text-xl  md:text-xl lg:text2xl xl:text-3xl font-bold text-yellow-300'> TOUCH</span>
                             </h3>
                             <p className='text-gray-500 pb-4'>We're ready to lead you into the future with Business Services.</p>
-                            <p className=""><span className="text-yellow-400">Call Us : </span> <NavLink to="tel:+(21) 255 999 8899" className='hover:text-yellow-300 hover:underline'>+(21)
-                                255 999 8899</NavLink></p>
+                            <p className=""><span className="text-yellow-400">Call Us : </span> <NavLink to="tel:+(91) 9353627039" className='hover:text-yellow-300 hover:underline'>+(91)
+                            9353627039 </NavLink></p>
                             <p> <span className="text-yellow-400">Email : </span> <NavLink to="mailto:info@example.com" className='hover:text-yellow-00 hover:underline '>
-                                info@example.com</NavLink></p>
+                                metrolightkitchen@gmail.com</NavLink></p>
                             <p className="text-gray-500 pt-5"> 433 California St, Suite 300
                                 San Francisco, CA 94104, USA </p>
 
